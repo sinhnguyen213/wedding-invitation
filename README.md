@@ -1,6 +1,6 @@
 # SinhTrang-Wedding - Thiệp Cưới Online
 
-Website thiệp cưới online cho Văn Hiếu ❤️ Trang Linh
+Website thiệp cưới online cho Nguyễn Văn Sinh ❤️ Lê Thu Trang
 
 ## Cách xem website
 
